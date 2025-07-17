@@ -2,15 +2,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiHccTpD)](https://github.com/GiHccTpD/github-readme-stats)
 
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
-
-- Using 🦫Golang/🚀Node.js  
-  
-
-<br/>  
 
 
 ## My Skill Set  
