@@ -1,3 +1,5 @@
-# Hi there 👋 ![](https://komarev.com/ghpvc/?username=GiHccTpD&style=plastic)
+# Hi there 👋 
 
-![stats](https://github-readme-stats.vercel.app/api?username=GiHccTpD)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiHccTpD)](https://github.com/GiHccTpD/github-readme-stats)
+
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
